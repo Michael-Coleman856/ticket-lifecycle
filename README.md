@@ -10,7 +10,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Sweet potato cakes
 
 <h2>Operating Systems Used </h2>
 
@@ -25,26 +24,57 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img width="813" height="547" alt="image" src="https://github.com/user-attachments/assets/1b9eaee3-e9bb-4467-9cc7-c069cc997220" />
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3 align="center"> Intake </h3>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<p align="center">
+End user creates the ticket by entering in their credentials (name and email) with explanation and help topic chosen. The user then submits
 </p>
+<br/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/llnDZ3r.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<br/>
 
+<h3 align="center"> Resolution </h3>
+<br/>
+<p align="center">
+Help Desk Agent (John) uses Login credentials and views ticket properties
+</p>
+<br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7UkkGc9.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<br/>
+
+<br/>
+<p align="center">
+Help Desk Agent(John) Then sets properties to the ticket.
+</p>
+<br/>
+<p>
+<img src="https://i.imgur.com/AlifVrM.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<br/>
+
+<br/>
+<p align="center">
+Sys Admin Agent(Jane) then logs in and works ticket to completion.
+</p>
+<br/>
+<p>
+<img src="https://i.imgur.com/Pj8vMHl.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<br/>
+
+<h3> Summary </h3>
+<br/>
+<p>
+This was just an very simple example to show a full ticket lifecycle. Which shows from the creation of the ticket from the user end, to the setting of properties from a SysAdmin helpdesk agent, to the completion of the ticket by a normal helpdesk agent. 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A ticketing system is widely used to track work tickets in the IT support realm. This tutorial shows some of many properties and attributes that come with a ticketing system and how to handle it.  
 </p>
-<br />
+
+
+
