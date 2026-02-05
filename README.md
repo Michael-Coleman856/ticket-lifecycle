@@ -2,79 +2,33 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>Ticket Lifecycle Stages</h2>
-
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-
-<h2>Lifecycle Stages</h2>
-
-<h3 align="center"> Intake </h3>
-
-<br/>
-<p align="center">
-End user creates the ticket by entering in their credentials (name and email) with explanation and help topic chosen. The user then submits
+<h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
-<br/>
-<p>
-<img src="https://i.imgur.com/llnDZ3r.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<br/>
+This tutorial demonstrates the creation of tickets as an end user .<br />
 
-<h3 align="center"> Resolution </h3>
-<br/>
-<p align="center">
-Help Desk Agent (John) uses Login credentials and views ticket properties
 </p>
-<br/>
-<p>
-<img src="https://i.imgur.com/7UkkGc9.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
-<br/>
-
-<br/>
-<p align="center">
-Help Desk Agent(John) Then sets properties to the ticket.
-</p>
-<br/>
-<p>
-<img src="https://i.imgur.com/AlifVrM.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<br/>
-
-<br/>
-<p align="center">
-Sys Admin Agent(Jane) then logs in and works ticket to completion.
-</p>
-<br/>
-<p>
-<img src="https://i.imgur.com/Pj8vMHl.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<br/>
-
-<h3> Summary </h3>
-<br/>
-<p>
-This was just an very simple example to show a full ticket lifecycle. Which shows from the creation of the ticket from the user end, to the setting of properties from a SysAdmin helpdesk agent, to the completion of the ticket by a normal helpdesk agent. 
 </p>
 <p>
-A ticketing system is widely used to track work tickets in the IT support realm. This tutorial shows some of many properties and attributes that come with a ticketing system and how to handle it.  
+Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
 </p>
-
-
-
+<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+</p>
+<p>
+Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/ISfE0G7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
